@@ -1,0 +1,14 @@
+
+		package Java2Class;
+		public class Private01{
+		       public void makesound(){
+		          System.out.println("¾ß¿Ë");
+		       }
+		         void makeHappy(){
+		          System.out.println("½º¸¶ÀÏ");
+		         }
+		}
+		
+		
+	
+

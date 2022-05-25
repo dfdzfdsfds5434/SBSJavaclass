@@ -1,0 +1,19 @@
+package Java2Class;
+
+public class point {
+	
+   int xPos, yPos;
+   public point(int x, int y) {
+
+	xPos = x;
+	yPos = y;
+
+}
+	public void showPointUnfo(String[] args) {
+		System.out.println("[" + xPos+","+yPos+"]");
+
+	}
+
+}
+
+

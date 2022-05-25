@@ -1,0 +1,10 @@
+package Java2Class;
+
+class AAA {
+
+	int num = 0;
+	static void addNum(int n){
+	 num +=n;
+	}
+
+}
